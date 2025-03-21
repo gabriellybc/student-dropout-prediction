@@ -1,6 +1,6 @@
 # Student Dropout Prediction Pipeline
 
-This repository contains a machine learning pipeline for predicting student dropouts. The main notebook, `dropout_pipeline.ipynb`, guides you through the entire process—from data preprocessing to model evaluation and prediction.
+This repository contains a machine learning pipeline for predicting student dropouts. The main notebook, `dropout_pipeline.ipynb`, guides you through the entire process — from data preprocessing to model evaluation and prediction.
 
 
 ## Repository Structure
